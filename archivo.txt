@@ -1,0 +1,8 @@
+class Hola()
+{
+  public void saludar()
+{
+  System.out.println("Holi");
+  int a= 6;
+}
+}
